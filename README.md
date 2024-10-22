@@ -1,9 +1,5 @@
 # Projet-data
 
-<p align="center">
-<img src="https://media.licdn.com/dms/image/v2/D4E22AQF0Hflrh5HUmA/feedshare-shrink_800/feedshare-shrink_800/0/1724639247613?e=2147483647&v=beta&t=q5ivPnoi6oKQJ_rgfo-PgsfjLC5uHrDM7ZaC6ymNwOk" width="1000" height="300" /> 
-</p>
-
 ### 1. [Optimisation des Stratégies d'Assurance par le Traitement Avancé de Données](https://github.com/Samadkod/Samadkod/blob/main/Script_Projet%20data.ipynb)
 
 <p align="center">
