@@ -21,4 +21,4 @@ L'analyse inclut des données sur l'utilisation des véhicules, les comportement
 - Python (Pandas, Scikit-learn), Excel, PowerPoint
   
 > [!NOTE]
-> Consultez les résultats et le code source sur GitHub : [Projet Machine Learning & Econométrie](https://github.com/Samadkod/Samadkod/blob/main/Projet%20Machine%20Learning%20%26%20Econom%C3%A9trie.pdf)
+> Consultez les résultats et le code source sur GitHub : [Projet Machine Learning & Econométrie](https://github.com/Samadkod/Projet-data_Assurance-auto/blob/main/Projet%20Machine%20Learning%20%26%20Econom%C3%A9trie.pdf)
