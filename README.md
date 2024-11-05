@@ -15,7 +15,7 @@ Dans un secteur d'assurance en constante évolution, ce projet met en œuvre des
 L'objectif principal est d'analyser et de modéliser les facteurs influençant les sinistres automobiles afin d'optimiser la tarification et la gestion des risques. Les étapes clés incluent :
 
 1. **Nettoyage et préparation des données** : Assurer la qualité des données en corrigeant les anomalies et en standardisant les formats pour garantir des analyses fiables.
-2. **Analyse exploratoire des données** : Déterminer les relations entre les variables de conduite et le montant des sinistres à travers des statistiques descriptives et des visualisations interactives (par exemple avec Plotly).
+2. **Analyse exploratoire des données** : Déterminer les relations entre les variables de conduite et le montant des sinistres à travers des statistiques descriptives et des visualisations interactives.
 3. **Modélisation prédictive** : Construire des modèles prédictifs (GLM, Random Forest, XGBoost) pour estimer le montant des sinistres et identifier les comportements à risque.
 4. **Évaluation des performances** : Comparer plusieurs modèles à l'aide de métriques comme l'Erreur Quadratique Moyenne (MSE) et le coefficient de détermination (R²) pour sélectionner le modèle le plus performant.
 
@@ -43,8 +43,3 @@ Ce projet fournit une base solide pour des stratégies de tarification basées s
 
 ### Outils utilisés :
 - Python, Excel
-
-
-
-
-
