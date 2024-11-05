@@ -6,10 +6,34 @@
 <img src="https://cap.img.pmdstatic.net/fit/https.3A.2F.2Fi.2Epmdstatic.2Enet.2Fcap.2F2023.2F07.2F03.2Fff1a337e-fc84-4d25-bbfa-4d8b81839ec7.2Ejpeg/1200x630/cr/wqkgcm9uc3RpayAtIEFkb2JlIFN0b2NrIC8gQ0FQSVRBTA%3D%3D/assurance-auto-lecart-se-creuse-entre-lile-de-france-et-les-regions-1491314.jpg" width="1000" height="300" />
 </p>
 
-## Objectif de l'analyse :
-- Ce projet vise à optimiser les stratégies de tarification dans le secteur de l'assurance en utilisant des techniques avancées d'analyse de données. L'objectif principal est d'analyser les comportements des assurés, d'identifier les risques potentiels et de développer des modèles prédictifs pour anticiper les sinistres.
+## Contexte
 
-L'analyse inclut des données sur l'utilisation des véhicules, les comportements de conduite, ainsi que des informations démographiques des assurés. Nous avons utilisé des modèles de Machine Learning pour prédire les montants des sinistres, offrant ainsi des solutions concrètes pour ajuster les stratégies d'assurance.
+Dans un secteur d'assurance en constante évolution, ce projet met en œuvre des analyses de données avancées pour affiner la compréhension des comportements des assurés et améliorer la tarification des polices d'assurance. En utilisant Python, des techniques statistiques et des modèles de machine learning, cette étude vise à exploiter pleinement les données pour offrir des stratégies assurantielles plus précises et dynamiques.
+
+## Objectifs
+
+L'objectif principal est d'analyser et de modéliser les facteurs influençant les sinistres automobiles afin d'optimiser la tarification et la gestion des risques. Les étapes clés incluent :
+
+1. **Nettoyage et préparation des données** : Assurer la qualité des données en corrigeant les anomalies et en standardisant les formats pour garantir des analyses fiables.
+2. **Analyse exploratoire des données** : Déterminer les relations entre les variables de conduite et le montant des sinistres à travers des statistiques descriptives et des visualisations interactives (par exemple avec Plotly).
+3. **Modélisation prédictive** : Construire des modèles prédictifs (GLM, Random Forest, XGBoost) pour estimer le montant des sinistres et identifier les comportements à risque.
+4. **Évaluation des performances** : Comparer plusieurs modèles à l'aide de métriques comme l'Erreur Quadratique Moyenne (MSE) et le coefficient de détermination (R²) pour sélectionner le modèle le plus performant.
+
+## Résultats
+
+Les analyses montrent des corrélations importantes entre l'utilisation du véhicule, l'âge du conducteur, le score de crédit, et la probabilité de sinistre. En particulier :
+
+- Les véhicules à usage commercial ou pour les trajets quotidiens tendent à générer des sinistres plus élevés, ce qui justifie une tarification ajustée.
+- Les assurés avec un score de crédit faible ou un historique de sinistre récent présentent un risque accru.
+- Les modèles de machine learning ont révélé l'importance des comportements de conduite (freinages intensifs, virages brusques) dans l'évaluation du risque.
+
+## Recommandations
+
+Sur la base de ces résultats, des stratégies de tarification personnalisées et des programmes de réduction des risques pour certains profils (jeunes conducteurs, conducteurs intensifs) sont recommandés. L'intégration de données contextuelles comme les conditions climatiques pourrait enrichir les analyses futures.
+
+## Conclusion
+
+Ce projet fournit une base solide pour des stratégies de tarification basées sur les données, aidant à réduire les coûts pour l'assureur et à mieux satisfaire les assurés. Des recherches complémentaires pourraient étendre ces modèles en intégrant des données en temps réel pour des prédictions encore plus précises. Avec les améliorations suggérées, ce projet peut offrir une vue complète et pratique de l'impact des analyses de données dans le secteur de l'assurance.
 
 - **Compétences acquises** :
   - [x] Nettoyage et prétraitement de données d'assurance.
@@ -18,7 +42,9 @@ L'analyse inclut des données sur l'utilisation des véhicules, les comportement
   - [x] Création de visualisations pour illustrer les relations entre comportements de conduite et sinistres.
 
 ### Outils utilisés :
-- Python (Pandas, Scikit-learn), Excel, PowerPoint
-  
-> [!NOTE]
-> Consultez les résultats et le code source sur GitHub : [Projet Machine Learning & Econométrie](https://github.com/Samadkod/Projet-data_Assurance-auto/blob/main/Projet%20Machine%20Learning%20%26%20Econom%C3%A9trie.pdf)
+- Python, Excel
+
+
+
+
+
