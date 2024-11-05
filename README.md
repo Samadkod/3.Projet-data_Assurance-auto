@@ -14,10 +14,10 @@ Dans un secteur d'assurance en constante évolution, ce projet met en œuvre des
 
 L'objectif principal est d'analyser et de modéliser les facteurs influençant les sinistres automobiles afin d'optimiser la tarification et la gestion des risques. Les étapes clés incluent :
 
-1. **Nettoyage et préparation des données** : Assurer la qualité des données en corrigeant les anomalies et en standardisant les formats pour garantir des analyses fiables.
-2. **Analyse exploratoire des données** : Déterminer les relations entre les variables de conduite et le montant des sinistres à travers des statistiques descriptives et des visualisations interactives.
-3. **Modélisation prédictive** : Construire des modèles prédictifs (GLM, Random Forest, XGBoost) pour estimer le montant des sinistres et identifier les comportements à risque.
-4. **Évaluation des performances** : Comparer plusieurs modèles à l'aide de métriques comme l'Erreur Quadratique Moyenne (MSE) et le coefficient de détermination (R²) pour sélectionner le modèle le plus performant.
+- [x] **Nettoyage et préparation des données** : Assurer la qualité des données en corrigeant les anomalies et en standardisant les formats pour garantir des analyses fiables.
+- [x] **Analyse exploratoire des données** : Déterminer les relations entre les variables de conduite et le montant des sinistres à travers des statistiques descriptives et des visualisations interactives.
+- [x] **Modélisation prédictive** : Construire des modèles prédictifs (GLM, Random Forest, XGBoost) pour estimer le montant des sinistres et identifier les comportements à risque.
+- [x] **Évaluation des performances** : Comparer plusieurs modèles à l'aide de métriques comme l'Erreur Quadratique Moyenne (MSE) et le coefficient de détermination (R²) pour sélectionner le modèle le plus performant.
 
 ## Résultats
 
@@ -34,12 +34,6 @@ Sur la base de ces résultats, des stratégies de tarification personnalisées e
 ## Conclusion
 
 Ce projet fournit une base solide pour des stratégies de tarification basées sur les données, aidant à réduire les coûts pour l'assureur et à mieux satisfaire les assurés. Des recherches complémentaires pourraient étendre ces modèles en intégrant des données en temps réel pour des prédictions encore plus précises. Avec les améliorations suggérées, ce projet peut offrir une vue complète et pratique de l'impact des analyses de données dans le secteur de l'assurance.
-
-- **Compétences acquises** :
-  - [x] Nettoyage et prétraitement de données d'assurance.
-  - [x] Modélisation prédictive avec régression logistique, arbres de décision, et forêts aléatoires.
-  - [x] Analyse statistique des variables influençant les montants des sinistres.
-  - [x] Création de visualisations pour illustrer les relations entre comportements de conduite et sinistres.
 
 ### Outils utilisés :
 - Python, Excel
