@@ -75,7 +75,6 @@ Ce projet combine **analyse de données**, **machine learning** et **stratégie 
 ---
 
 ### 🔗 **Liens utiles**  
-- [Mon Portfolio](https://samadkod.github.io/)  
 - [Mon profil LinkedIn](https://www.linkedin.com/in/skodon/)
   
 
